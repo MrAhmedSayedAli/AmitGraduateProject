@@ -1,10 +1,10 @@
 # Amit Graduate Project
 ------------
-**Hand Controlled Car D36**
+**D36 - Hand Controlled Car**
 
 #### Team Work
+**- Esmail Galal Makram**
 **- Ahmed ElSayed Abdelrahman Ali**
-**- Esmail Galal**
 
 ------------
 
@@ -12,4 +12,6 @@
 
 ![](https://github.com/MrAhmedSayedAli/AmitGraduateProject/raw/main/Media/cover.jpg)
 
-![](https://github.com/MrAhmedSayedAli/AmitGraduateProject/raw/main/Media/Images/WhatsApp%20Image%202023-01-01%20at%2022.59.01.jpg)
+**[Youtube Video](http://www.youtube.com/watch?v=qXNStcYmxkY "Youtube Video")**
+
+[![AMIT Graduate Project - Controlling Car with hand motion](http://img.youtube.com/vi/qXNStcYmxkY/0.jpg)](http://www.youtube.com/watch?v=qXNStcYmxkY "AMIT Graduate Project - Controlling Car with hand motion")
